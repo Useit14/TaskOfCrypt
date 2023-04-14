@@ -1,0 +1,17 @@
+C:\Users\useit\source\repos\TaskOfCrypt\bin\Debug\net6.0-windows\TaskOfCrypt.exe
+C:\Users\useit\source\repos\TaskOfCrypt\bin\Debug\net6.0-windows\TaskOfCrypt.deps.json
+C:\Users\useit\source\repos\TaskOfCrypt\bin\Debug\net6.0-windows\TaskOfCrypt.runtimeconfig.json
+C:\Users\useit\source\repos\TaskOfCrypt\bin\Debug\net6.0-windows\TaskOfCrypt.dll
+C:\Users\useit\source\repos\TaskOfCrypt\bin\Debug\net6.0-windows\TaskOfCrypt.pdb
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.csproj.AssemblyReference.cache
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.Form1.resources
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.csproj.GenerateResource.cache
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.AssemblyInfoInputs.cache
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.AssemblyInfo.cs
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.csproj.CoreCompileInputs.cache
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.dll
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\refint\TaskOfCrypt.dll
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.pdb
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\TaskOfCrypt.genruntimeconfig.cache
+C:\Users\useit\source\repos\TaskOfCrypt\obj\Debug\net6.0-windows\ref\TaskOfCrypt.dll
